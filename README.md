@@ -25,4 +25,4 @@
 ---
 
 ## 📫 Let's Connect
-- 📧 Email: brandonhenes@yahoo.com
+- 📧 Email: brandonhenes@gmail.com
