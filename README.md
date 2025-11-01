@@ -3,7 +3,7 @@
 AI & Automation Builder (n8n • LLMs • APIs) | Operations → Solutions / Implementation  
 Minneapolis–St. Paul (remote/hybrid OK)
 
-I ran a Tier-5 Walgreens store doing ~$20M revenue and ~$3M EBITDA with ≤0.11% labor variance on ~900 hrs/week, OT ≤2.2%, queues down ~300/day, DOH −39%/−67%, and record-low shrink.  
+I run a Tier-5 Walgreens store doing ~$20M revenue and ~$3M EBITDA with ≤0.11% labor variance on ~900 hrs/week, OT ≤2.2%, queues down ~300/day, DOH −39%/−67%, and record-low shrink.  
 Now I build AI + workflow automations so ops, pharmacy, and RevOps teams can get the same control without adding headcount.
 
 ---
