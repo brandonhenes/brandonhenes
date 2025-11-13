@@ -56,11 +56,9 @@ Now I build AI + workflow automations so ops, pharmacy, and RevOps teams can get
 **Flow:** new lead → enrichment/API → LLM decides owner/segment → update system → notify channel.  
 **Value:** shows I can work outside retail/healthcare and into SaaS/revops.
 
-(Include links to: short demo video, workflow JSON, screenshot of run log.)
-
 ---
 
-## Operations Background (Why I’m credible in front of business)
+## Operations Background
 - ~$20M Walgreens store, ~\$3M EBITDA
 - Labor: ≤0.11% variance on ~900 hrs/week
 - OT: ≤2.2%
@@ -76,7 +74,7 @@ I now build automations that protect these numbers by making every run loggable 
 - Customizing n8n (Node.js basics)
 - Salesforce / HubSpot admin-level automations
 - LLM evaluation and monitoring
-- Packaging workflows as repeatable demos for mid-size consultancies
+- Packaging workflows as repeatable demos for consultancies
 
 ---
 
