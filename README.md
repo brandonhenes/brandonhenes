@@ -1,92 +1,14 @@
-# Brandon Henes
-
-AI & Automation Builder (n8n • LLMs • APIs) | Operations → Solutions / Implementation  
-Minneapolis–St. Paul (remote/hybrid OK)
-
-I run a Tier-5 Walgreens store doing ~$20M revenue and ~$3M EBITDA with ≤0.11% labor variance on ~900 hrs/week, OT ≤2.2%, queues down ~300/day, DOH −39%/−67%, and record-low shrink.  
-Now I build AI + workflow automations so ops, pharmacy, and RevOps teams can get the same control without adding headcount.
-
----
-
-## Summary
-- Design and ship n8n workflows that call LLMs, external APIs, and business apps.
-- Add the “unsexy” parts most people skip: logging, error lanes, ownership, and run history.
-- Translate operational problems (labor, intake, queue, inventory) into automations business leaders can audit.
-
----
-
-## Core Skills
-**Automation & Integrations**
-- n8n, webhooks, REST APIs, OAuth2
-- Google Sheets API, Gmail, form/webhook triggers
-- Claude Desktop via MCP
-- Error handling, retries, notifications
-
-**AI / Agent Patterns**
-- LLM classify, extract, route, generate
-- Basic RAG / tool calling
-- Structured output → Sheets / CRM
-
-**Business Systems / RevOps**
-- Intake → enrichment → routing
-- CRM/helpdesk style flows
-- Reporting hooks for ops
-
-**Data / Reporting (supporting)**
-- SQL (Postgres/MySQL)
-- Python (pandas)
-- Excel (advanced), Power BI / Tableau
-
----
-
-## Selected Automations
-
-### 1. Email-to-Structured-Record with LLM and Error Lane
-**Goal:** turn unstructured ops email into a trackable queue.  
-**Flow:** inbound email → n8n → Claude (classify: billing/support/Rx/other) → write structured row to Google Sheets → optional reply → on failure, send alert.  
-**Value:** same discipline I used to control queues and labor, but automated.
-
-### 2. Daily Ops KPI Agent
-**Goal:** give ops leaders the story, not just the numbers.  
-**Flow:** schedule → pull KPIs → LLM summary → email to stakeholders.  
-**Value:** execs don’t have to open a dashboard.
-
-### 3. CRM / Lead Enrichment and LLM Routing
-**Goal:** support GTM/RevOps teams.  
-**Flow:** new lead → enrichment/API → LLM decides owner/segment → update system → notify channel.  
-**Value:** shows I can work outside retail/healthcare and into SaaS/revops.
-
----
-
-## Operations Background
-- ~$20M Walgreens store, ~\$3M EBITDA
-- Labor: ≤0.11% variance on ~900 hrs/week
-- OT: ≤2.2%
-- Queue reduction: ~300/day
-- DOH: −39% / −67%
-- Record-low shrink
-
-I now build automations that protect these numbers by making every run loggable and every failure visible.
-
----
-
-## Current Focus
-- Customizing n8n (Node.js basics)
-- Salesforce / HubSpot admin-level automations
-- LLM evaluation and monitoring
-- Packaging workflows as repeatable demos for consultancies
-
----
-
-## How to Evaluate Me
-1. Give me an intake email and ask for a structured row + reply.
-2. Ask me to call an API and only alert on non-200.
-3. Ask me to add an LLM classification step to an existing no-code flow.
-4. Ask me to show the run history.
-
----
-
-## Contact
-brandonhenes@gmail.com  
-Target roles: Solutions Engineer (Automation/AI), Automation/Workflow Engineer, Implementation Consultant (iPaaS/AI), Business Systems/Integrations, RevOps Automation, AI Automation Engineer
-com
+Brandon Henes
+General Manager → AI & Automation Builder · Minneapolis–St. Paul
+I run a $20M Walgreens with ~$3M EBITDA, 900 labor hours a week, and a pharmacy filling thousands of scripts daily. I've spent 10 years making high-volume operations run clean. Now I build the same thing with workflows and APIs.
+What I Build
+Dynasty Daily — Production n8n system (7 workflows, 70+ nodes) that generates daily dynasty fantasy football briefings. 4 AI agent sub-workflows, 18 RSS feeds, FantasyCalc + Sleeper API integration across 30 leagues, Supabase data layer. Runs autonomously every day with error handling, caching, and structured output validation.
+Market Intelligence Bot — Telegram-driven workflow that orchestrates parallel API calls, computes technical indicators via JavaScript scoring, and generates AI-powered investment memos. Portfolio up 49% since June 2025.
+Real Estate Automation — Built a client-facing pipeline: Zillow scraping → comp analysis → appreciation tracking → personalized newsletters. Proactively added a lost-business recovery system that surfaced missed opportunities.
+Sleeper Scout — Fantasy football analytics app (TypeScript, Supabase) for opponent analysis, power rankings, and trade evaluation across 30 leagues.
+Stack
+n8n, JavaScript, TypeScript, Python, REST APIs, Supabase (PostgreSQL), SQL, AI/LLM orchestration, MCP, Pinecone, Airtable, Twilio, Telegram, Slack, HubSpot, GoHighLevel, Bardeen, Claude Code, Cursor, VS Code, PyCharm, AWS (Cloud Practitioner certified)
+Operations Background
+Tier 5 Walgreens General Manager since 2019. Full P&L ownership. Labor variance under 1 hour vs. plan for 24 consecutive months on 900 hrs/week. OT held under 20 hrs/week. Rx queue reduced by ~300 scripts/day. Days on hand cut from 90→55 (front end) and 30→10 (pharmacy). Developed and promoted 9 assistant managers to store managers.
+Contact
+brandonhenes@gmail.com · LinkedIn · henesautomationstudio.com Opus 4.6Extended
