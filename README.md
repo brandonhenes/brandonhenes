@@ -20,7 +20,7 @@ n8n, JavaScript, TypeScript, Python, REST APIs, Supabase (PostgreSQL), SQL, AI/L
 
 ## Operations Background
 
-Tier 5 Walgreens General Manager since 2019. Full P&L ownership. Labor variance under 1 hour vs. plan for 24 consecutive months on 900 hrs/week. OT held under 20 hrs/week. Rx queue reduced by ~300 scripts/day. Days on hand cut from 90→55 (front end) and 30→10 (pharmacy). Developed and promoted 9 assistant managers to store managers.
+Tier 5 Walgreens General Manager since 2014. Full P&L ownership. Labor variance under 1 hour vs. plan for 24 consecutive months on 900 hrs/week. OT held under 20 hrs/week. Rx queue reduced by ~300 scripts/day. Days on hand cut from 90→55 (front end) and 30→10 (pharmacy). Developed and promoted 9 assistant managers to store managers.
 
 ## Contact
 
