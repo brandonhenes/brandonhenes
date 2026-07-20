@@ -14,10 +14,6 @@ Most of my projects combine operations, automation, and AI. I care more about wh
 
 ## Projects
 
-### [Henes Family Journal](https://github.com/brandonhenes/henes-family-journal)
-
-My family uses this to save photos, videos, stories, and keepsakes. It runs on Next.js, Neon, and Cloudflare R2, with an Android app that can recover interrupted background uploads.
-
 ### [TeamLens](https://github.com/brandonhenes/teamlens)
 
 A real-estate team dashboard for weekly planning, database reactivation, benchmarking, referrals, and agent workflows. It is built with Next.js, Clerk, PostgreSQL, and Supabase.
