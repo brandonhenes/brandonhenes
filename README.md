@@ -1,34 +1,74 @@
-# Brandon Henes
+**Brandon Henes**
 
-I manage a high-volume Walgreens store in Minnesota. I've spent more than a decade leading teams, managing a P&L, and fixing operational problems. I started building software because I kept seeing work that should be easier, faster, or less dependent on somebody remembering the next step.
+**Applied AI Builder | Operations Systems | Minneapolis-St. Paul**
 
-Most of my projects combine operations, automation, and AI. I care more about whether a tool works in daily use than whether it makes a good demo.
+I lead high-volume, regulated retail operations and build AI-enabled systems for messy real-world workflows.
 
-## What I'm working on
+My background includes more than a decade of P&L ownership, workforce planning, process improvement, and people development. That operating experience shapes how I build software: clear controls, durable state, visible failure modes, human approval at consequential steps, and tools people can actually use.
 
-**AI Client Engine** researches businesses, keeps the supporting evidence attached to each claim, drafts outreach, and requires my approval before anything is sent. I'm using it to find out which operational problems are worth building a service around.
+**Current Focus**
 
-**Command Center** is my personal system for capturing ideas and calendar requests by voice. It stores the work in Neon and uses n8n to send appointments and recurring tasks to Google Calendar.
+**AI Client Engine**
 
-**Capital Allocation Lab** is how I'm rebuilding my accounting and valuation skills. I'm starting with Micron and working through the reasoning one assumption at a time instead of asking AI to hand me an answer.
+An evidence-first business-development system for applied AI services. It researches operating problems, records source-backed evidence, prepares targeted outreach, enforces approval and send limits, and measures market response.
 
-## Projects
+The current goal is not more automation. It is learning which problems and offers produce real conversations.
 
-### [TeamLens](https://github.com/brandonhenes/teamlens)
+**Command Center**
 
-A real-estate team dashboard for weekly planning, database reactivation, benchmarking, referrals, and agent workflows. It is built with Next.js, Clerk, PostgreSQL, and Supabase.
+A personal operating system combining voice capture, grounded questions, project context, and a Neon-backed calendar queue.
 
-### [The Edge](https://github.com/brandonhenes/sleeperfordaddy)
+Captured appointments and recurring tasks flow through n8n into Google Calendar, while ideas remain separate until explicitly promoted into work.
 
-A fantasy-football analytics app that combines several data sources for custom scoring, trade analysis, player profiles, and live draft decisions. It is built with TypeScript, React, Express, PostgreSQL, and Drizzle.
+**Capital Allocation Lab**
 
-I also build smaller automations with n8n, Gmail, Google Calendar, Telegram, and APIs when a full application would be unnecessary.
+A structured apprenticeship in accounting, valuation, investment analysis, and financial decision systems.
 
-## Tools
+The first guided company case is Micron. The emphasis is source quality, transparent assumptions, model auditability, and being able to defend the judgment rather than merely generate a spreadsheet.
 
-I work mostly with TypeScript, Next.js, React, Node.js, Python, PostgreSQL, Neon, Supabase, Cloudflare R2, n8n, OpenAI, Anthropic, Vercel, Render, and GitHub Actions.
+**Selected Work**
 
-## Contact
+**[TeamLens](https://github.com/brandonhenes/teamlens)**
+
+A multi-tenant real-estate team intelligence platform combining operational dashboards, database reactivation, weekly planning, benchmarking, referral mapping, and agent-level workflows.
+
+Built with Next.js, Clerk, PostgreSQL, Supabase, and AI-assisted analysis.
+
+**[The Edge](https://github.com/brandonhenes/sleeperfordaddy)**
+
+A fantasy-football analytics platform built with TypeScript, React, Express, PostgreSQL, Supabase, and Drizzle ORM.
+
+It combines multiple data sources, custom scoring, behavioral profiles, batch grading, trade analysis, and live draft decision tools.
+
+**Automation Systems**
+
+Production workflows built with n8n, APIs, language models, Gmail, Google Calendar, Telegram, and scheduled data pipelines.
+
+Examples include calendar coordination, sports-intelligence briefs, media processing, and operational research systems.
+
+**How I Build**
+
+- Evidence before recommendations
+- Human approval before consequential actions
+- Explicit assumptions and failure states
+- Durable data instead of chat-only state
+- Automation measured by real adoption and outcomes
+- Software grounded in an observed workflow
+
+**Core Stack**
+
+- **Applications:** TypeScript, Next.js, React, Node.js, Python, Android
+- **Data:** PostgreSQL, Neon, Supabase, Drizzle ORM, Cloudflare R2
+- **AI and Automation:** OpenAI, Anthropic, Codex, n8n, agent workflows, retrieval systems
+- **Delivery:** Vercel, Render, GitHub Actions, REST APIs, webhooks, OAuth
+
+**Background**
+
+I currently lead a high-volume Walgreens operation with responsibility for financial performance, labor planning, regulated execution, customer experience, and team development.
+
+I am most interested in AI implementation, operations modernization, solutions engineering, and financial decision systems.
+
+**Contact**
 
 [Email](mailto:brandonhenes@gmail.com)
 
