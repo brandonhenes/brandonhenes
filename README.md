@@ -1,49 +1,81 @@
 # Brandon Henes
 
-**AI Builder | Operations Leader | Minneapolis-St. Paul**
+**Applied AI Builder | Operations Systems | Minneapolis-St. Paul**
 
-I run a $20M Walgreens store with ~$3M EBITDA, 900 labor hours a week, and a pharmacy filling thousands of scripts daily. Ten years making high-volume regulated operations run clean. Now I build the same way with AI agents, workflows, and full-stack products.
+I lead high-volume, regulated retail operations and build AI-enabled systems for messy real-world workflows.
 
----
+My background includes more than a decade of P&L ownership, workforce planning, process improvement, and people development. That operating experience shapes how I build software: clear controls, durable state, visible failure modes, human approval at consequential steps, and tools people can actually use.
 
-### What I Build
+## Current Focus
 
-**[TeamLens](https://github.com/brandonhenes/teamlens)**: Multi-tenant real estate team intelligence SaaS platform (Next.js, Clerk, Supabase, Claude AI). Shipped 13,000+ lines of production code in under one week. Seven differentiated features including a dead-database reactivation engine, weekly action planner, team benchmarking, referral network mapping, neighborhood intelligence, client lifecycle reporting, and personalized agent workflows. Deployed and onboarded to a design-partner brokerage.
+### AI Client Engine
 
-**[Edge Nurture AI](https://github.com/brandonhenes/edge-nurture-ai)**: 4-agent LangGraph pipeline (Python, FastAPI, React, Supabase) built for a top 1% national mortgage originator. Rate monitor, client matcher, message drafter via Claude, and compliance checker with human-in-the-loop approval. React dashboard tracks pipeline status, response quality, and approval metrics. Processes a 20-client portfolio end to end in under 90 seconds. Deployed to production.
+An evidence-first business-development system for applied AI services. It researches operating problems, records source-backed evidence, prepares targeted outreach, enforces approval and send limits, and measures market response.
 
-**[The Edge](https://github.com/brandonhenes/sleeperfordaddy)**: Full-stack multi-environment analytics platform (TypeScript, React, Express, PostgreSQL/Supabase, Drizzle ORM). 35-table schema with row-level security, composite scoring across 3 external data sources, behavioral profiling, TTL caching layer, and an overnight batch grading engine that processed 18,000+ outcomes in a single run. Serves 30 concurrent environments.
+The current goal is not more automation. It is learning which problems and offers produce real conversations.
 
-**EcoFold RAG Chatbot**: Retrieval-augmented generation chatbot (Pinecone vector database, Supabase) for a manufacturing client. Managed the full engagement: discovery, requirements, solution design, deployment, and stakeholder handoff. Paid client delivery.
+### Command Center
 
-**Workflow Automation Engine**: 90-node n8n system (Main + 6 sub-workflows) integrating 7+ APIs and AI agents (Claude, GPT) for data orchestration, content analysis, and automated intelligence delivery. Later redesigned into a modular sub-pipeline architecture for reliability. Eliminates 10 to 14 hours per week of manual research.
+A personal operating system combining voice capture, grounded questions, project context, and a Neon-backed calendar queue.
 
-**Real Estate Automation**: Client-facing pipeline covering listing scraping, comparative analysis, appreciation tracking, and personalized newsletters. Proactively added a lost-business recovery system that surfaced missed opportunities. Paid client delivery.
+Captured appointments and recurring tasks flow through n8n into Google Calendar, while ideas remain separate until explicitly promoted into work.
 
-**Stock Analysis Bots**: Automated investment analysis pipelines using Firecrawl, Financial Modeling Prep, and Twelve Data APIs. JavaScript scoring, technical indicators, and AI-generated investment memos. Portfolio up 49% over 8.5 months of live tracking.
+### Capital Allocation Lab
 
-**Custom Claude Skills**: 10+ reusable AI instruction sets encoding domain knowledge, debugging playbooks, and evaluation frameworks. Includes a 5-gate opportunity evaluation framework for scoring build-vs-buy decisions, an n8n debugger and builder pair, a career-positioning resume tailoring engine, and application-specific debuggers.
+A structured apprenticeship in accounting, valuation, investment analysis, and financial decision systems.
 
----
+The first guided company case is Micron. The emphasis is source quality, transparent assumptions, model auditability, and being able to defend the judgment rather than merely generate a spreadsheet.
 
-### Stack
+## Selected Work
 
-**AI and Automation**: Claude API, Claude Code, Codex, GPT API, LangGraph, langchain-anthropic, n8n, MCP (Model Context Protocol), Pinecone (RAG), Whisper, prompt engineering, multi-agent orchestration
+### [Henes Family Journal](https://github.com/brandonhenes/henes-family-journal)
 
-**Development**: TypeScript, JavaScript, Python, React, Next.js, FastAPI, Express, Node.js, REST APIs, webhooks, OAuth2, Clerk (multi-tenant auth)
+A production family-memory platform built with Next.js, Neon PostgreSQL, Cloudflare R2, and Android.
 
-**Data and Infrastructure**: PostgreSQL, Supabase, Drizzle ORM, SQL, schema design, ETL, TTL caching, GitHub Actions, Render, Vercel
+It supports durable background uploads, asynchronous media processing, captions, previews, family profiles, keepsakes, and recovery from interrupted mobile uploads.
 
-**Tools**: VS Code, Claude Code, Git, Linux (WSL2), AWS Cloud Practitioner
+### [TeamLens](https://github.com/brandonhenes/teamlens)
 
----
+A multi-tenant real-estate team intelligence platform combining operational dashboards, database reactivation, weekly planning, benchmarking, referral mapping, and agent-level workflows.
 
-### Operations Background
+Built with Next.js, Clerk, PostgreSQL, Supabase, and AI-assisted analysis.
 
-Tier 5 Walgreens General Manager since 2014. Full P&L ownership of a $20M business unit with ~$3M EBITDA and 40+ employees. Labor variance under 1 hour vs. plan for 24 consecutive months on 900 hrs/week. Overtime held under 20 hrs/week. Rx queue reduced by ~300 scripts per day. Days on hand cut from 90 to 55 (front end) and 30 to 10 (pharmacy). Developed and promoted 9 assistant managers into store managers.
+### [The Edge](https://github.com/brandonhenes/sleeperfordaddy)
 
----
+A fantasy-football analytics platform built with TypeScript, React, Express, PostgreSQL, Supabase, and Drizzle ORM.
 
-### Contact
+It combines multiple data sources, custom scoring, behavioral profiles, batch grading, trade analysis, and live draft decision tools.
 
-[brandonhenes@gmail.com](mailto:brandonhenes@gmail.com) · [LinkedIn](https://www.linkedin.com/in/brandonhenes/) · [henesautomationstudio.com](https://henesautomationstudio.com)
+### Automation Systems
+
+Production workflows built with n8n, APIs, language models, Gmail, Google Calendar, Telegram, and scheduled data pipelines.
+
+Examples include family-calendar coordination, sports-intelligence briefs, media processing, and operational research systems.
+
+## How I Build
+
+- Evidence before recommendations
+- Human approval before consequential actions
+- Explicit assumptions and failure states
+- Durable data instead of chat-only state
+- Automation measured by real adoption and outcomes
+- Software grounded in an observed workflow
+
+## Core Stack
+
+- **Applications:** TypeScript, Next.js, React, Node.js, Python, Android
+- **Data:** PostgreSQL, Neon, Supabase, Drizzle ORM, Cloudflare R2
+- **AI and Automation:** OpenAI, Anthropic, Codex, n8n, agent workflows, retrieval systems
+- **Delivery:** Vercel, Render, GitHub Actions, REST APIs, webhooks, OAuth
+
+## Background
+
+I currently lead a high-volume Walgreens operation with responsibility for financial performance, labor planning, regulated execution, customer experience, and team development.
+
+I am most interested in AI implementation, operations modernization, solutions engineering, and financial decision systems.
+
+## Contact
+
+[Email](mailto:brandonhenes@gmail.com) ·
+[LinkedIn](https://www.linkedin.com/in/brandonhenes/) ·
+[Henes Automation Studio](https://henesautomationstudio.com)
