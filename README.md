@@ -24,7 +24,7 @@ Captured appointments and recurring tasks flow through n8n into Google Calendar,
 
 A structured apprenticeship in accounting, valuation, investment analysis, and financial decision systems.
 
-The first guided company case is Micron. The emphasis is source quality, transparent assumptions, model auditability, and being able to defend the judgment rather than merely generate a spreadsheet.
+The emphasis is source quality, transparent assumptions, model auditability, and being able to defend the judgment rather than merely generate a spreadsheet.
 
 **Selected Work**
 
